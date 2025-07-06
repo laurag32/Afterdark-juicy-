@@ -89,3 +89,8 @@ Juicy
 <ins id="1095589" data-width="300" data-height="250"></ins>
 <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1095589});</script>
 <!--JuicyAds END-->
+<!-- JuicyAds v3.0 -->
+<script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+<ins id="1095591" data-width="1232" data-height="786"></ins>
+<script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1095591});</script>
+<!--JuicyAds END-->
